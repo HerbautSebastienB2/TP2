@@ -1,12 +1,12 @@
 #container
 {
 	margin: 0 30px;
-	background: #fff;
+	background: rgba(150, 135, 149, 0.22);
 }
 
 #header
 {
-	background: #ccc;
+	background: rgba(155, 125, 125, 0.74);
 	padding: 20px;
 }
 
@@ -36,7 +36,7 @@
 	display: block;
 	float: left;
 	padding: 5px 10px;
-	color: #fff;
+	color: rgba(255, 255, 255, 0.42);
 	text-decoration: none;
 	border-right: 1px solid #fff;
 }
@@ -62,9 +62,14 @@
 
 #edito h2
 {
-	color: #000;
+	color: #5d92e6;
 	font-size: 160%;
 	margin: 0 0 .5em;
+}
+
+#news h2
+{
+    color: #5d92e6;
 }
 
 #news
